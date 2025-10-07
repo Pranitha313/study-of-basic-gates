@@ -75,5 +75,9 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **RTL**
 
 **Result:**
+State Diagram
+<img width="797" height="631" alt="Pranitha E1 RTL" src="https://github.com/user-attachments/assets/f4b4b349-4c7a-4432-8ecd-ad37d1f703f3" />
 
+Clock Pulse
+<img width="1920" height="1080" alt="Pranitha E1 CP" src="https://github.com/user-attachments/assets/9f473567-cd04-4c97-bb8a-6464328c261c" />
 
